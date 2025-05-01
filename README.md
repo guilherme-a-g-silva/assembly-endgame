@@ -4,7 +4,7 @@
 ![Scrimba](https://img.shields.io/badge/Scrimba-1E1E1E?style=for-the-badge&logo=Scrimba&logoColor=00CFC3)
 ![Status](https://img.shields.io/badge/Status-Completed-2ecc71?style=for-the-badge)
 
-[![Play the Game](https://img.shields.io/badge/Play%20the%20Game-1e90ff?style=for-the-badge&logo=Google%20Play%20Games&logoColor=white)](https://your-vercel-link.vercel.app)
+[![Play the Game](https://img.shields.io/badge/Play%20the%20Game-1e90ff?style=for-the-badge&logo=Google%20Play%20Games&logoColor=white)](https://assembly-endgame-teal.vercel.app/)
 
 ---
 
